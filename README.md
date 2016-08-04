@@ -23,5 +23,7 @@ The criteria to conclude this project were:
 If you want to see the code on Github:
 https://github.com/bruno78/pong.git
 
-or if you want to play the game:
+If you want to play the game:
 http://www.codeskulptor.org/#user41_VoGZTf5hOe7otdE.py
+
+** * This course was completed in May 12 of 2016 * **
